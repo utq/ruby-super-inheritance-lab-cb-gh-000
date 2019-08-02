@@ -9,4 +9,3 @@ class Student
   end
 
  end
- ProTip! Use n and p to navigate between commits in a pull request.
